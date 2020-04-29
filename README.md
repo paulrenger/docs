@@ -21,11 +21,12 @@ Afterwards, suitable learning pairs are formed using a matching algorithm and bo
 In order to prepare the students for digital learning support in the best possible way, guidelines are also provided for the discussions, in which both pedagogical tips and technical support are offered. Afterwards, the students coordinate the lessons independently and to the extent that it is useful and possible for both parties. Motivated students also have the opportunity to request and support other students in a user area.
 
 
-Screening Guidelines can be found [here](https://docs.google.com/document/d/15UIHRmB7yaaFyUVdFGxb81eoyQRiKCa8jRuxXFN9jLg/edit?usp=sharing) in the current draft. 
 
 
 ## Tutify Screening
 One essential step takes place between the registration from students and their actual matching - the so-called “screening”. The whole idea is that as a platform, which connects scholars with students we are responsible for that connection and gotta prohibit abuse of our service as good as possible. 
+
+The current draft of our screening guidelines can be found [here](https://docs.google.com/document/d/15UIHRmB7yaaFyUVdFGxb81eoyQRiKCa8jRuxXFN9jLg/edit?usp=sharing).
 
 The next step is to give a brief overview of our code. 
 
